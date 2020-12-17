@@ -11,7 +11,7 @@ namespace JerkinDemo
         static void Main(string[] args)
         {
             Console.WriteLine("hello Jerkin");
-            Console.WriteLine("error statement")
+            Console.WriteLine("error statement");
         }
     }
 }
