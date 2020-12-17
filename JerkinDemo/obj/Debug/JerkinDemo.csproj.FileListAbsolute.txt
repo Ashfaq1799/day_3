@@ -1,0 +1,6 @@
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day_3\JerkinDemo\JerkinDemo\bin\Debug\JerkinDemo.exe.config
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day_3\JerkinDemo\JerkinDemo\bin\Debug\JerkinDemo.exe
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day_3\JerkinDemo\JerkinDemo\bin\Debug\JerkinDemo.pdb
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day_3\JerkinDemo\JerkinDemo\obj\Debug\JerkinDemo.csproj.CoreCompileInputs.cache
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day_3\JerkinDemo\JerkinDemo\obj\Debug\JerkinDemo.exe
+D:\ASHFAQ\STUDY MATERIAL\TRAINING\web technologies\Devops\Day_3\JerkinDemo\JerkinDemo\obj\Debug\JerkinDemo.pdb
